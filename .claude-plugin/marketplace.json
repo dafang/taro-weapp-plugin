@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "taro-weapp-plugin",
-      "source": ".",
+      "source": "./",
       "description": "React to Taro 转换工具和微信小程序聊天工具开发指南",
       "version": "1.0.0",
       "author": {
