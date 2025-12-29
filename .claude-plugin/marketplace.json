@@ -1,0 +1,21 @@
+{
+  "name": "taro-weapp-plugin",
+  "owner": {
+    "name": "dafang"
+  },
+  "metadata": {
+    "description": "React to Taro 转换工具和微信小程序开发指南"
+  },
+  "plugins": [
+    {
+      "name": "taro-weapp-plugin",
+      "source": ".",
+      "description": "React to Taro 转换工具和微信小程序聊天工具开发指南",
+      "version": "1.0.0",
+      "author": {
+        "name": "dafang"
+      },
+      "keywords": ["taro", "react", "wechat", "miniprogram", "weapp", "chat-tool"]
+    }
+  ]
+}

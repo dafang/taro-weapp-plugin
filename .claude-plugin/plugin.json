@@ -1,0 +1,12 @@
+{
+  "name": "taro-weapp-plugin",
+  "version": "1.0.0",
+  "description": "React to Taro 转换工具和微信小程序聊天工具开发指南",
+  "author": {
+    "name": "dafang"
+  },
+  "homepage": "https://github.com/dafang/taro-weapp-plugin",
+  "repository": "https://github.com/dafang/taro-weapp-plugin",
+  "license": "MIT",
+  "keywords": ["taro", "react", "wechat", "miniprogram", "weapp", "chat-tool"]
+}
