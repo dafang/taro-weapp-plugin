@@ -24,6 +24,16 @@ Claude Code 插件，提供 React to Taro 转换工具和微信小程序开发�
 - 动态消息
 - 获取群成员信息
 
+### 3. weapp-share-timeline
+
+微信小程序分享到朋友圈开发指南，包括：
+
+- onShareTimeline 配置
+- 单页模式适配（场景值 1154）
+- 单页模式禁用能力列表
+- navigationBarFit 布局调整
+- 云开发未登录访问配置
+
 ## 安装
 
 ### 方式 1：通过 Marketplace 安装
@@ -45,6 +55,7 @@ claude --plugin-dir ./taro-weapp-plugin
 
 - 当你需要将 React 代码转换为 Taro 时，使用 `/react-to-taro`
 - 当你开发微信小程序聊天工具时，使用 `/wechat-chat-tool`
+- 当你开发分享到朋友圈功能时，使用 `/weapp-share-timeline`
 
 ## License
 
